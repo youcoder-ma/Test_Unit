@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvRxIX35WT9rSLOb1NXceECHCLGhlav0xNHz2visoXOmndP0JY7WU/z2vHZV+phLtjf+6SCJ9ks3VSMq2TO3/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Calculatrice\\Calculatrice\\Calculatrice.iOS\\Calculatrice.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
